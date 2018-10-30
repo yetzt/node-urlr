@@ -1,0 +1,23 @@
+{
+  "name": "urlr",
+  "version": "0.0.0",
+  "description": "path.relative for URLs",
+  "main": "index.js",
+  "author": "yetzt <node@yetzt.me>",
+  "license": "Unlicense",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yetzt/node-urlr.git"
+  },
+  "keywords": [
+    "url",
+    "relative",
+    "rfc1808",
+    "resolve",
+    "uri"
+  ],
+  "bugs": {
+    "url": "https://github.com/yetzt/node-urlr/issues"
+  },
+  "homepage": "https://github.com/yetzt/node-urlr#readme"
+}
